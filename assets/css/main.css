@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
+
 html, body, div, span, p,  applet, object,
 iframe, h1, p, h2, h4, h5, h6, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -17,7 +18,11 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+
+
+}
+
 
 h3 {
 
@@ -32,6 +37,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	
 }
 
 ol, ul {
@@ -54,6 +60,7 @@ table {
 
 body {
 	-webkit-text-size-adjust: none;
+	
 }
 
 mark {
@@ -106,6 +113,7 @@ input, select, textarea {
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
 		line-height: 1.75em;
+		
 	}
 
 	a {
